@@ -1,12 +1,11 @@
 PyGithub
-langchain
-langgraph
-langchain-community
-langchain-openai
 fastapi
 uvicorn
 python-dotenv
 requests
 chromadb
 groq
-sentence-transformers
+langchain
+langgraph
+langchain-community
+langchain-openai
